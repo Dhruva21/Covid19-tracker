@@ -3,7 +3,6 @@
 - I made use of disease.sh public API for fetching the data.
 - For the front end of the website I used ReactJs.
 - For styling the page neatly I used MaterialUI. (This has nice styling attributes.)
-![Screenshot](Covid19-tracker.png)
 ### `npm start`
 
 Runs the app in the development mode.<br />
